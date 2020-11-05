@@ -2,4 +2,6 @@ Hola comenzaremos un repositorio de versiones
 
 Soy Giorgio Canaza Crapesi 
 edad: 28 años
-peso: 170kg
+peso: 175kg
+estatura: 170cm
+fecha de nacimiento: 02/07/1991
