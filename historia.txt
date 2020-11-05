@@ -1,3 +1,5 @@
 Hola comenzaremos un repositorio de versiones
 
-Soy Giorgio canaza 
+Soy Giorgio Canaza Crapesi 
+edad: 28 años
+peso: 170kg
