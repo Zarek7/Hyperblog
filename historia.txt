@@ -5,3 +5,4 @@ edad: 28 años
 peso: 175kg
 estatura: 170cm
 fecha de nacimiento: 02/07/1991
+hobbies: automovilismo, surf, tenis y natacion
